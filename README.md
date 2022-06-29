@@ -15,7 +15,7 @@
 
 - 🤝 I’m looking for help with **Cloud native**
 
-- 👨‍💻 All of my projects are available at [github.com/vishalmamidi](github.com/vishalmamidi)
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/vishalmamidi)
 
 - 💬 Ask me about **kubernetes, Spring, Docker, GitHub Actions**
 
