@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **kubernetes**
 
-- 🌱 I’m currently learning **kubernetes, React JS, CICD workflow**
+- 🌱 I’m currently learning **kubernetes, React JS, CI/CD pipeline**
 
 - 👯 I’m looking to collaborate on **kubernetes**
 
