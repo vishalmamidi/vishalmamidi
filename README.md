@@ -1,12 +1,14 @@
-<h1 align="center">Hi 👋, I'm vishalmamidi</h1>
+<h1 align="center">Hi, I'm Vishal Mamidi <img height=36 align=center src=https://cliply.co/wp-content/uploads/2019/06/391906110_WAVING_HAND_400px.gif> </h1> 
+
+
 <h3 align="center">A passionate engineer from India</h3>
 
 
 - 🔭 I’m currently working on **kubernetes**
 
-- 🌱 I’m currently learning **kubernetes, React JS, CI/CD pipeline**
+- 🌱 I’m currently learning **kubernetes, GitOps and Observability and Analysis**
 
-- 👯 I’m looking to collaborate on **kubernetes**
+- 👯 I’m looking to collaborate on **kubernetes and Observability and Analysis**
 
 - 🤝 I’m looking for help with **Cloud native**
 
