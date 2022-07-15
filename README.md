@@ -1,24 +1,25 @@
-<h1 align="center">Hi, I'm Vishal Mamidi <img height=36 align=center src=https://cliply.co/wp-content/uploads/2019/06/391906110_WAVING_HAND_400px.gif> </h1> 
+<h1 align="center">Hi, I'm Vishal Mamidi <img height=60 align=center src=assets/pro.gif> </h1> 
+
 
 
 <h3 align="center">A passionate engineer from India</h3>
 
 
-- 🔭 I’m currently working on **kubernetes**
+- <img height=36 align=center src=assets/work3.gif>  I’m currently working on **kubernetes**
 
-- 🌱 I’m currently learning **kubernetes, GitOps and Observability and Analysis**
+- <img height=36 align=center src=work2.gif>  I’m currently learning **kubernetes, GitOps & Observability and Analysis**
 
-- 👯 I’m looking to collaborate on **kubernetes and Observability and Analysis**
+- <img height=36 align=center src=assets/colab.gif>  I’m looking to collaborate on **kubernetes & Observability and Analysis**
 
-- 🤝 I’m looking for help with **Cloud native**
+- <img height=36 align=center src=assets/help.gif>  I’m looking for help with **Terraform & Cloud native**
 
-- 👨‍💻 All of my projects are available at [GitHub](https://github.com/vishalmamidi)
+- <img height=36 align=center src=assets/repo.gif>  All of my projects are available at [GitHub](https://github.com/vishalmamidi)
 
-- 💬 Ask me about **kubernetes, Spring, Docker, GitHub Actions**
+- <img height=36 align=center src=assets/ask.gif>  Ask me about **kubernetes, Spring, Docker, GitHub Actions**
 
-- 📫 How to reach me **mamidivishalsa@gmail.com**
+- <img height=36 align=center src=assets/me3.gif>  How to reach me **mamidivishalsa@gmail.com**
 
-- ⚡ Fun fact **I am a Lazy Programmer**
+- <img height=36 align=center src=assets/fun.gif> Fun fact **I am a Lazy Programmer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
